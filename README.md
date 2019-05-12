@@ -1,0 +1,2 @@
+# myHugo
+Hugo project
