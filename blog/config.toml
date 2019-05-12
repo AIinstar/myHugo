@@ -1,0 +1,5 @@
+baseURL = "http://AIinstar.org/"
+languageCode = "en-us"
+title = "AI in star 爱因思达 ， hello word"
+publishDir = "docs"
+theme = "personal-web" 

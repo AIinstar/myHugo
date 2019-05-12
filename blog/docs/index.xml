@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI in star 爱因思达 ， hello word</title>
+    <link>http://AIinstar.org/</link>
+    <description>Recent content on AI in star 爱因思达 ， hello word</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 16:20:27 +0800</lastBuildDate>
+    
+	<atom:link href="http://AIinstar.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dada</title>
+      <link>http://AIinstar.org/dada/</link>
+      <pubDate>Sun, 12 May 2019 16:20:27 +0800</pubDate>
+      
+      <guid>http://AIinstar.org/dada/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
